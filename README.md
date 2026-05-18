@@ -29,6 +29,7 @@ This repo collection is my working portfolio of marketplace integrations, report
 - **[ebay-sellerportal-submission](https://github.com/dominicci13/ebay-sellerportal-submission)** — eBay seller portal automation pipeline
 - **[shared-python-utils](https://github.com/dominicci13/shared-python-utils)** — Reusable utilities across all marketplace projects
 - **[webcrawler](https://github.com/dominicci13/webcrawler)** — Scraping framework for marketplace data extraction
+- **[job-search-automation](https://github.com/dominicci13/job-search-automation)** - End-to-end macOS job search automation
 - **[portfolio-website](https://github.com/dominicci13/portfolio-website)** — Personal site source
 
 ## Currently exploring
