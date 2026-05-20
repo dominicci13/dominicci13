@@ -24,7 +24,7 @@ This repo collection is my working portfolio of marketplace integrations, report
 
 ## Featured projects
 
-- **[amzn-master](https://github.com/dominicci13/amzn-master)** — Main orchestrator for Amazon Seller Central automation
+- **[amzn-catalog-health](https://github.com/dominicci13/amzn-catalog-health)** — Main orchestrator for Amazon Seller Central automation
 - **[all-dashboards-report](https://github.com/dominicci13/all-dashboards-report)** — Unified reporting layer pulling from multiple marketplace sources
 - **[ebay-sellerportal-submission](https://github.com/dominicci13/ebay-sellerportal-submission)** — eBay seller portal automation pipeline
 - **[shared-python-utils](https://github.com/dominicci13/shared-python-utils)** — Reusable utilities across all marketplace projects
