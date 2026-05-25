@@ -24,7 +24,7 @@ This repo collection is my working portfolio of marketplace integrations, report
 
 ## Featured projects
 
-- **[ebay-best-offers](https://github.com/dominicci13/ebay-best-offers)** — eBay Seller Hub bot: reviews pending Best Offers across multiple accounts, accepts/counters based on configurable rebate + profit thresholds
+- **[ebay-best-offers](https://github.com/dominicci13/ebay-best-offers)** — eBay Seller Hub bot: accepts/counters pending Best Offers
 - **[job-search-automation](https://github.com/dominicci13/job-search-automation)** — End-to-end macOS job search automation
 - **[portfolio-website](https://github.com/dominicci13/portfolio-website)** — Personal site source
 - **[sellercloud-sync](https://github.com/dominicci13/sellercloud-sync)** — Daily ETL that loads a catalog export into SQL Server
