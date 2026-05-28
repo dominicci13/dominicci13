@@ -15,6 +15,8 @@ I build production automations and AI-native workflows for retail, e-commerce, a
 
 I currently lead workflow automation at Focus Camera (US retailer, fully remote).
 
+**Top Rated Plus** on [Upwork](https://www.upwork.com/freelancers/~012a3ee325020ff5ae) (2020 - 2025).
+
 ## Stack
 
 | | |
@@ -28,9 +30,9 @@ I currently lead workflow automation at Focus Camera (US retailer, fully remote)
 ## Featured projects
 
 - **[speed-to-lead-ai-responder](https://github.com/dominicci13/speed-to-lead-ai-responder)** — End-to-end AI workflow that classifies, scores, and replies to inbound leads. Built in both n8n and Make.com using OpenAI Structured Outputs with strict JSON Schema.
+- **[job-search-automation](https://github.com/dominicci13/job-search-automation)** — End-to-end macOS job-search automation built with Claude Code.
 - **[ebay-best-offers](https://github.com/dominicci13/ebay-best-offers)** — eBay Seller Hub bot that accepts and counters pending Best Offers based on margin rules.
 - **[sellercloud-sync](https://github.com/dominicci13/sellercloud-sync)** — Daily ETL that loads a catalog export into SQL Server.
-- **[job-search-automation](https://github.com/dominicci13/job-search-automation)** — End-to-end macOS job-search automation built with Claude Code.
 - **[shared-python-utils](https://github.com/dominicci13/shared-python-utils)** — Reusable utilities across all marketplace projects.
 
 ## What's next
