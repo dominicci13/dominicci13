@@ -1,44 +1,47 @@
-# Brian Ramirez
+# Brian Ramírez
 
-**Automation & AI Workflow Builder** · Automatización con IA
-I build production automations and AI-native workflows for retail, e-commerce, and financial teams — turning 2–6 hours of daily manual work into scheduled jobs and LLM-augmented systems.
+**AI-native automation engineer.** I build LLM-augmented workflows and agents-with-tools, backed by a multi-year track record shipping production automation for retail and e-commerce teams.
 
-📍 Madrid, Spain · 📩 brian_d13@icloud.com · 💼 [linkedin.com/in/bdramirez](https://linkedin.com/in/bdramirez)
+📩 brian_d13@icloud.com · 💼 [linkedin.com/in/bdramirez](https://linkedin.com/in/bdramirez)
 
 ---
 
 ## What I build
 
-**AI-augmented automations** — webhook-driven workflows that use LLMs for classification, structured extraction, and decision-making, paired with strict schema enforcement and observable execution.
+**Agents and AI systems.** Telegram-native assistants built on a custom Claude tool-use loop (no LangChain), with multi-tier memory, pgvector RAG, structured outputs under strict JSON Schema, and prompt-injection defense in depth. One of them runs hardened and self-hosted under least privilege.
 
-**Production marketplace integrations** — Python and JavaScript pipelines that pull, clean, and report on Amazon Seller Central, eBay, Walmart, and Best Buy data. The kind of work that replaces hours of daily manual reporting with scheduled jobs.
+**Production automation at scale.** Python and JavaScript pipelines that pull, clean, and report on Amazon Seller Central, eBay, Walmart, and Best Buy. Scheduled jobs that replace hours of daily manual reporting, running unattended.
 
-I currently lead workflow automation at Focus Camera (US retailer, fully remote).
+I currently lead workflow automation at **Focus Camera** (US retailer, fully remote) and freelance as a **Top Rated Plus** Automation Engineer on [Upwork](https://www.upwork.com/freelancers/~012a3ee325020ff5ae) at 100% job success.
 
-**Top Rated Plus** on [Upwork](https://www.upwork.com/freelancers/~012a3ee325020ff5ae) (2020 - 2025).
+## Featured projects
+
+**AI and agents**
+- **[openclaw-assistant](https://github.com/dominicci13/openclaw-assistant)** — Hardened, self-hosted AI assistant on the OpenClaw gateway: Claude over Telegram with least-privilege mail (read and draft), a default-DENY egress proxy, and prompt-injection defense in depth.
+- **[personal-ai-assistant](https://github.com/dominicci13/personal-ai-assistant)** — A Claude agent built from primitives: custom tool-use loop, 3-tier memory (identity, pgvector RAG, summarized history), 12 tools across calendar, email, and web. No framework.
+- **[speed-to-lead-ai-responder](https://github.com/dominicci13/speed-to-lead-ai-responder)** — Classifies, scores, and replies to inbound leads using OpenAI Structured Outputs with strict JSON Schema. Built twice in parallel (n8n and Make.com).
+- **[job-search-automation](https://github.com/dominicci13/job-search-automation)** — A scheduled Claude CLI agent that searches job markets, deduplicates, tailors per-role resumes, and emails an HTML digest.
+
+**Marketplace automation**
+- **[ebay-best-offers](https://github.com/dominicci13/ebay-best-offers)** — Nightly bot that accepts and counters pending Best Offers across accounts on configurable rebate and profit rules.
+- **[amzn-account-health](https://github.com/dominicci13/amzn-account-health)**, **[amzn-shipments](https://github.com/dominicci13/amzn-shipments)**, **[amzn-feedback-manager](https://github.com/dominicci13/amzn-feedback-manager)** — Daily Amazon Seller Central scrapers feeding Excel dashboards and SQL Server.
+- **[sellercloud-sync](https://github.com/dominicci13/sellercloud-sync)** — Idempotent daily ETL loading a catalog export into SQL Server via parameterized pyodbc.
+- **[shared-python-utils](https://github.com/dominicci13/shared-python-utils)** — Reusable utilities (SeleniumBase login, OTP, xlwings, pyodbc, Rich logging) shared across the marketplace projects.
 
 ## Stack
 
 | | |
 |---|---|
-| **AI / LLM** | OpenAI Responses API · Structured Outputs · Anthropic Claude · Claude Code · Cursor · n8n AI nodes |
+| **AI / LLM** | Agentic tool-use loops (from primitives) · RAG (pgvector) · Structured Outputs / JSON Schema · Prompt-injection defense · OpenAI Responses API · Anthropic Claude · Claude Code |
 | **Languages** | Python · JavaScript · Excel VBA |
 | **Automation** | n8n · Make · Power Automate · Zapier |
 | **Data** | Power BI · Power Query · DAX · SQL Server · MySQL |
-| **APIs** | Amazon Seller Central · eBay · Walmart Marketplace · REST/JSON |
-
-## Featured projects
-
-- **[speed-to-lead-ai-responder](https://github.com/dominicci13/speed-to-lead-ai-responder)** — End-to-end AI workflow that classifies, scores, and replies to inbound leads. Built in both n8n and Make.com using OpenAI Structured Outputs with strict JSON Schema.
-- **[job-search-automation](https://github.com/dominicci13/job-search-automation)** — End-to-end macOS job-search automation built with Claude Code.
-- **[ebay-best-offers](https://github.com/dominicci13/ebay-best-offers)** — eBay Seller Hub bot that accepts and counters pending Best Offers based on margin rules.
-- **[sellercloud-sync](https://github.com/dominicci13/sellercloud-sync)** — Daily ETL that loads a catalog export into SQL Server.
-- **[shared-python-utils](https://github.com/dominicci13/shared-python-utils)** — Reusable utilities across all marketplace projects.
+| **APIs** | Amazon Seller Central · eBay · Walmart Marketplace · REST / JSON |
 
 ## What's next
 
-Building an **LLM-as-judge eval framework** and an **agent-with-tools research assistant** — the production-reliability and agent-design pieces that complete the AI-workflow story. Both will land here as standalone repos.
+An **LLM-as-judge eval framework**: the production-reliability piece that closes the loop on the agent work above. It will land here as a standalone repo.
 
 ---
 
-📩 [brian_d13@icloud.com](mailto:brian_d13@icloud.com) · 💼 [LinkedIn](https://linkedin.com/in/bdramirez) · 🌎 Native Spanish · Fluent business English
+📩 [brian_d13@icloud.com](mailto:brian_d13@icloud.com) · 💼 [LinkedIn](https://linkedin.com/in/bdramirez) · 🌎 Bilingual: Spanish and English
