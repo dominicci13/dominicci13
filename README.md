@@ -12,7 +12,7 @@
 
 **Production automation at scale.** Python and JavaScript pipelines that pull, clean, and report on Amazon Seller Central, eBay, Walmart, and Best Buy. Scheduled jobs that replace hours of daily manual reporting, running unattended.
 
-I currently lead workflow automation at **Focus Camera** (US retailer, fully remote) and freelance as a **Top Rated Plus** Automation Engineer on [Upwork](https://www.upwork.com/freelancers/~012a3ee325020ff5ae) at 100% job success.
+I currently lead workflow automation at **Focus Camera** (US retailer, fully remote) and freelance as a **Top Rated** Automation Engineer on [Upwork](https://www.upwork.com/freelancers/~012a3ee325020ff5ae) at 100% job success.
 
 ## Featured projects
 
